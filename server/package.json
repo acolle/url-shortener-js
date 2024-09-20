@@ -20,6 +20,6 @@
     "valid-url": "^1.0.9"
   },
   "devDependencies": {
-    "nodemon": "^1.19.2"
+    "nodemon": "^2.0.19"
   }
 }
